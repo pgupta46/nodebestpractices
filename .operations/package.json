@@ -24,7 +24,7 @@
     "github-api": "^3.0.0",
     "graceful-fs": "^4.1.15",
     "imagemin": "^6.0.0",
-    "imagemin-jpegtran": "^6.0.0",
+    "imagemin-jpegtran": "^7.0.0",
     "imagemin-pngquant": "^6.0.0",
     "is-ci": "^3.0.0",
     "markdownlint-cli": "^0.18.0",
