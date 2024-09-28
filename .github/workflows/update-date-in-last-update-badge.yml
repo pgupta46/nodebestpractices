@@ -7,7 +7,7 @@ on:
 jobs:
   run:
     name: Update the date in last update badge to today
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-24.04
 
     # Limit this action to only run on the main repo and not on forks
     if: github.repository_owner == 'goldbergyoni'
